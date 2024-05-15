@@ -1,5 +1,8 @@
 # DatJava
 Database Java
+Nama : Franklin Jaya
+NIM : 0806022310016
+
 Selamat Subuh Pak Ano, Ini Adalah Tugas OOP Yaitu menghubungkan Java dengan Database sehingga kita dapat mengisi tabel pada database lewat code java saja tanpa perlu kita masuk ke dalam MySQL Workbench lagi.
 
 Jadi Cara kerja nya pada code kita bisa memasukkan 2 ID student, 2 name mahasiswa, 2 age mahasiswa, 2 major mahasiswa.
